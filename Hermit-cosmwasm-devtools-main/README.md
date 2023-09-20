@@ -2,7 +2,7 @@
 
 a tool for interacting with Hermit Network cosmwasm contracts. online at https://cosmwasm.tools
 
-## how to use
+## How to use
 
 - default network is the Uni testnet for Juno, but you can use mainnet, your local dev server, or any compatible chain
 - add an account for sending coins - connect your wallet, or generate a new account
@@ -14,11 +14,11 @@ a tool for interacting with Hermit Network cosmwasm contracts. online at https:/
 - once you have some coins in your wallet or another account, you can transfer them between accounts
 - this is intended for testing! you can use it to work with production contracts, but do so at your own risk
 
-## running locally
+## Running locally
 
 ```
-git clone https://github.com/aswever/cosmwasm-devtools
-cd cosmwasm-devtools
+git clone https://github.com/HermitMatrixNetwork/Hermit-contracts-Devtools.git
+cd Hermit -contracts-DevTools
 yarn
 yarn start
 ```
