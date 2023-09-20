@@ -1,6 +1,6 @@
-# cøsmwasm devtøøls
+# Hermit Network cøsmwasm devtøøls
 
-a tool for interacting with cosmwasm contracts. online at https://cosmwasm.tools
+a tool for interacting with Hermit Network cosmwasm contracts. online at https://cosmwasm.tools
 
 ## how to use
 
